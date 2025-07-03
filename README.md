@@ -16,7 +16,6 @@ Fitur-fitur
 5. Dashboard Statistik Admin (Menampilkan ringkasan jumlah: Artikel & Gambar di gallery)
 6. Manajement Portofolio Project (Tambah Project (Foto Project + Deskripsi Project) Hapus Project, Edit Project, Tampilan di halaman Portofolio Project Terupdate secara otomatis)
 7. Halaman Publik yang Rapi & Dinamis (Artikel terbaru ditampilkan otomatis, ada fitur readmore sebagai fitur tambahan di artikel, Galeri responsif dan ringan, Tentang Saya tampil dengan struktur informatif)
-8. Mode Darkmode di Halaman Baackend 
 
 Teknologi yang Digunakan
 
@@ -25,7 +24,7 @@ Teknologi yang Digunakan
 3. Frontend : Tailwind CSS, HTML, JavaScript
 4. Server Side : Apache / XAMPP
 
-Struktur Folder :
+# Struktur Folder :
 ![WhatsApp Image 2025-07-03 at 04 12 21_7afa953b](https://github.com/user-attachments/assets/63ec8a30-236f-4ba1-99c0-6e64be56565c)
 
 
