@@ -53,7 +53,7 @@ require_once("../koneksi.php");
 <body class="min-h-screen flex items-center justify-center transition duration-300 p-4">
     <!-- Video Background -->
     <video autoplay muted loop class="video-background">
-        <source src="../videos/Wuwa.mp4" type="video/mp4">
+        <source src="../videos/Wuwaa.mp4" type="video/mp4">
         Browser tidak mendukung video background.
     </video>
     <div class="overlay"></div>
