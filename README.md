@@ -132,7 +132,8 @@ D. Halaman Kelola About - Profil
 6. History / Log Aktivitas
 7. Fitur Readmore, Dibuat untuk pengunjung bisa dengan nyaman membaca artikel tanpa menganggu artikel lain.
 8. Register Akun
-9. dll
+9. Kelola Project
+10. dll
 
 
 
